@@ -18,8 +18,6 @@ This App is a ReactJS and Springboot App which allows the user to manage project
 
 3. JSON Web Tokens for Authentication
 
-# Live Demo
-[https://yatins-project-management-tool.herokuapp.com/](https://yatins-project-management-tool.herokuapp.com/)
 
 # Prerequites to Run the Application
 
